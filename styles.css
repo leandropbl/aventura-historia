@@ -1,0 +1,46 @@
+body {
+      background-color: darkslategray;
+      color: white;
+     .acme-regular {
+          font-family: "Acme" , sans-serif;
+          font-weight: 700;
+          font-style: normal;
+      }
+       display: flex;
+       justify-content: space-around;
+       align-items: center;
+        height: 10%;
+        margin: 25px;
+}
+
+button {
+     background-color: black;
+      color: white;
+      width: flex;
+
+
+}
+
+.passo {
+
+     display: none;
+}
+
+.passo.ativo {
+
+     display: block;
+}
+
+main {
+
+     text-decoration: center;
+     max-width: 85%;
+
+}
+
+
+
+
+
+
+
